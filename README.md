@@ -2,7 +2,7 @@
 
 ## Step 1 : Clone Repository 
 ```
-git clone https://github.com/codegenixtraining/crop-prediction
+git clone https://github.com/Mesh2509/crop-prediction
 cd crop-prediction
 ```
 
